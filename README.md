@@ -4,6 +4,7 @@
 ## THE MACHINE LEARNING RAP
 
 INTRO:
+
 Aw shit
 
 You know what it is.  Or maybe you don’t.  Well allow me to classify this for you.
@@ -11,12 +12,17 @@ You know what it is.  Or maybe you don’t.  Well allow me to classify this for 
 It’s Machine Learning time with MC ML!
 
 VERSE:
+
 First you got a dataset and look what you get
+
 You gotta a buncha rows, columns, and some headers I bet
 
 Before we
+
 Go through it and we build a machine
+
 We gotta
+
 Make sure your data’s sparkling clean
 
 Randomize the rows before you do the next step
