@@ -1,7 +1,7 @@
 # Machine-Learning-Rap
  A rap song about machine learning.  Please contribute!
 
-THE MACHINE LEARNING RAP
+## THE MACHINE LEARNING RAP
 
 INTRO:
 Aw shit
