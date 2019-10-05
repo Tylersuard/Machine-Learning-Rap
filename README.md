@@ -13,7 +13,7 @@ It’s Machine Learning time with MC ML!
 
 **VERSE:**
 
-First you got a dataset and look what you get
+First you got a dataset and look what you get/
 
 You gotta a buncha rows, columns, and some headers I bet
 
