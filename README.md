@@ -3,7 +3,7 @@
 
 ## THE MACHINE LEARNING RAP
 
-INTRO:
+**INTRO:**
 
 Aw shit
 
