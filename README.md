@@ -85,12 +85,6 @@ Back propagate
 Change the weights for production  
 
 
-Yann Lecun  
-And Ian Goodfellow  
-They call me big boss  
-Cause my hacks so ghetto  
-
-
 BREAKDOWN
 
 Yeah, I work for a startup mutha**a!  
