@@ -24,6 +24,10 @@ and we build a machine
 We gotta make sure your data’s  
 sparkling clean  
 
+Clean up all the data by  
+Deleting empty columns  
+And deleting rows  
+With an empty or an error on em  
 
 Randomize the rows before you  
 do the next step  
