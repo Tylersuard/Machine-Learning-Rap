@@ -11,6 +11,13 @@ You know what it is.  Or maybe you don’t.  Well allow me to classify this for 
 
 It’s Machine Learning time with MC-ML!
 
+**CHORUS:**
+
+You can find me on Colab, 20 open tabs
+Mami I got GPU's if you're into training fast
+I'm into neural nets, aint into poppin caps
+So come on give me 
+
 **VERSE:**
 
 First you got a dataset  
